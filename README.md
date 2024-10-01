@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willian-Eliseu
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, PHP, SQL, UNITY, C#, GAME DEVELOPMENT.
-- 🌱 I’m currently learning JS and C#.
-- 💞️ I’m looking to collaborate on WEB applications and Game development
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, PHP, SQL, REACT.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on WEB applications
 - 📫 How to reach me? Mail me on w.eliseu@gmail.com
 
 <!---
