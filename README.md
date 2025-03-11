@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willian-Eliseu
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, PHP, SQL, JAVA, KOTLIN.
-- 🌱 I’m currently learning JAVA and Mobile Development.
-- 💞️ I’m looking to collaborate on WEB and Mobile applications
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, PHP, SQL, VUE and LARAVEL.
+- 🌱 I’m currently learning Laravel and Vue.js.
+- 💞️ I’m looking to collaborate on Frontend and Backend WEB applications.
 - 📫 How to reach me? Mail me on w.eliseu@gmail.com
 
 <!---
